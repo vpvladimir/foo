@@ -4,7 +4,7 @@
 package vp.filmography.config;
 
 /**
- * @author Vladimir
+ * @author vp_Vladimir
  *
  */
 
